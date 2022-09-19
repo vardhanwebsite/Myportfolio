@@ -19,7 +19,13 @@ I have build a responsive website that will display images. links and descriptio
 - Style.css
 - Images
 - Script.js
-## Authors
+## Host Link
 
 - host link-(https://endearing-clafoutis-c9998d.netlify.app/)
+
+
+## Authors
+
+- Linkedln-(https://www.linkedin.com/in/vardhan-choudhary-1b7537186/)
+
 
