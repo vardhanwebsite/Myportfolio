@@ -21,7 +21,7 @@ I have build a responsive website that will display images. links and descriptio
 - Script.js
 ## Host Link
 
-- host link-(https://endearing-clafoutis-c9998d.netlify.app/)
+- Host link-(https://endearing-clafoutis-c9998d.netlify.app/)
 
 
 ## Authors
