@@ -374,6 +374,12 @@
 }
 
 
+#conatact img:hover{
+ height: 230px;
+    width: 100%;
+}
+
+
 
 
 @media (max-width:991px) {
