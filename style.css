@@ -375,8 +375,8 @@
 
 
 #ftr:hover{
- height: 230px;
-    width: 100%;
+
+   box-shadow: 5px 10px #888888
 }
 
 
